@@ -63,6 +63,11 @@ Response:
   "response": "AI's reply"
 }
 
+📸 Screenshots
+
+![WhatsApp Image 2025-05-03 at 16 30 23_d2daa3e3](https://github.com/user-attachments/assets/1a6d196a-8828-46bc-9861-6d075690f5c8)
+
+
 Backend (FastAPI) + Frontend (React) chatbot project.
 
 ✨ Author
