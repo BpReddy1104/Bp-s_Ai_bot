@@ -31,7 +31,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="chat-window">
-        <div className="chat-header">Pro Stack Academy! 🤖</div>
+        <div className="chat-header">Bp's Ai🤖</div>
         <div className="messages">
           {messages.map((msg, index) => (
             <ChatBubble key={index} role={msg.role} content={msg.content} />

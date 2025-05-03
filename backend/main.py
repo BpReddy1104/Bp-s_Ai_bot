@@ -22,7 +22,7 @@ SYSTEM_PROMPT = """
 Whenever the user says anything, respond in the following way:
 1. Give correct answer.
 Style:
-• More formal .
+• More formal in just short like an chatbot .
 """
 
 class ChatRequest(BaseModel):
