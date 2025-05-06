@@ -31,7 +31,7 @@ A full-stack chatbot application built using **FastAPI** for the backend and **R
 1. Clone the Repository
 
 
-git clone https://github.com/your-username/bps-dev-ai-project.git
+git clone https://github.com/BpReddy1104/Bp-s_Ai_bot.git
 cd bps-dev-ai-project
 
 
